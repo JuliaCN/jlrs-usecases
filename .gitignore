@@ -1,0 +1,9 @@
+
+# nixago: ignore-linked-files
+/lefthook.yml
+/.editorconfig
+/.conform.yaml
+/treefmt.toml
+
+/target
+/.data
